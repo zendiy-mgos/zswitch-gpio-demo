@@ -29,8 +29,8 @@ $ mos flash --port <port_name>
 ## Hardware
 ### Used components
  - Wemos D1 mini board
- - Wemos Relay board
+ - Wemos relay shield (2x)
  - 5V DC power supply (via min-USB cable or via external power supply)
-### Wiring schemas
+### Wiring schema
 ![zswitch-gpio demo wiring schema](docs/zswitch-gpio-demo-sketch_bb.png)
 
