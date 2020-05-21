@@ -33,4 +33,10 @@ $ mos flash --port <port_name>
  - 5V DC power supply (via min-USB cable or via external power supply)
 ### Wiring schema
 ![zswitch-gpio demo wiring schema](docs/zswitch-gpio-demo-sketch_bb.png)
+## Additional resources
+Take a look to some other demo samples.
 
+|Sample|Notes|
+|--|--|
+|[zswitch-demo](https://github.com/zendiy-mgos/zswitch-demo)|Mongoose OS demo firmware for using ZenSwitches.|
+|[zswitch-mqtt-demo](https://github.com/zendiy-mgos/zswitch-mqtt-demo)|Mongoose OS demo firmware for using MQTT to drive ZenSwitches.|
